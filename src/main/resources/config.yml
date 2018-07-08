@@ -1,0 +1,18 @@
+#
+# Copyright (c) 2018 DevNatan.
+# Todos os direitos reservados.
+#
+
+#
+# Lista de itens que podem ser vendidos automáticamente
+# ex.:
+#   0:
+#     id: DIAMOND     # tipo do item pode ser seu nome ou seu ID.
+#     price: 30       # preço do item
+#     slot: 0         # slot do item no inventário (redundante)
+#
+autosell:
+  0:
+    id: 38
+    price: 1069
+    slot: 4
